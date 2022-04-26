@@ -1,4 +1,4 @@
-## UI-Tabs using API's
+## ReactJS UI-Tabs using API's
 
 A simple website that displays the name, description, and image of popular heroes from the Marvel Cinematic Universe using RESTful api's and built in ReactJS.
 
