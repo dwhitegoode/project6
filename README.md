@@ -4,7 +4,7 @@ A simple website that displays the name, description, and image of popular heroe
 
 ____
 #### Preview
-<img src='./images/preview.png'>
+<img src='./src/images/preview.png'>
 
 ### Built With
 * [ReactJS](https://reactjs.org/) - Framework
